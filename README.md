@@ -14,14 +14,14 @@ I'm a CSE student who loves building things and figuring out how they work. I st
 
 Flutter · Dart · Firebase · Java · Git · GitHub
 
-# From ideas to interfaces to apps.
+*From ideas to interfaces to apps.*
 
 ## A few things I've built
 
 - **NookTime** — A productivity app project I'm working on.
 - **AI Mock Interviewer** — A team project where we explored building an AI-powered interview experience.
 
-Turning coffee-fueled ideas into apps that actually work.
+**Turning coffee-fueled ideas into apps that actually work.**
 
 ## Open to Opportunities
 
