@@ -1,23 +1,27 @@
-# Hey, I'm Anneshan 👋
+# Greetings, I'm Anneshan 🙇🏻
 
 I'm a CSE student who loves building things and figuring out how they work. I started out exploring web development, and now I'm diving deeper into mobile app development with Flutter. Somewhere along the way, I also got interested in UI/UX and how the little design details can make an app feel so much better to use.
 
 ## A little about me
 
-- 📱 Currently exploring Flutter and Dart
-- 🚀 Building **NookTime**, a project I'm putting a lot of effort into
-- 🎨 I enjoy playing around with UI ideas and making interfaces feel right
-- 🤖 Curious about AI and the different things we can build with it
-- 🌱 Still learning, making mistakes, and getting better with every project
+-  Currently exploring Flutter and Dart
+-  Building **NookTime**, a project I'm putting a lot of effort into
+-  I enjoy playing around with UI ideas and making interfaces feel right
+-  Curious about AI and the different things we can build with it
+-  Still learning, making mistakes, and getting better with every project
 
 ## Things I work with
 
 Flutter · Dart · Firebase · Java · Git · GitHub
 
+# From ideas to interfaces to apps.
+
 ## A few things I've built
 
 - **NookTime** — A productivity app project I'm working on.
 - **AI Mock Interviewer** — A team project where we explored building an AI-powered interview experience.
+
+Turning coffee-fueled ideas into apps that actually work.
 
 ## Open to Opportunities
 
