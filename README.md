@@ -19,10 +19,16 @@ Flutter · Dart · Firebase · Java · Git · GitHub
 - **NookTime** — A productivity app project I'm working on.
 - **AI Mock Interviewer** — A team project where we explored building an AI-powered interview experience.
 
+## Open to Opportunities
+
+I'm interested in Flutter development, mobile application development, and opportunities to grow in UI/UX design.
+
+I'm open to relevant internships and entry-level opportunities where I can contribute, learn, and build products that solve real problems.
+
 ## Elsewhere on the internet
 
-- 🌐 Portfolio: (add your portfolio URL here)
+- 🌐 Portfolio: https://annxshan-portfolio.netlify.app
 - 💻 GitHub: https://github.com/annxshan
-- 💼 LinkedIn: (add your LinkedIn URL here)
+- 💼 LinkedIn: https://www.linkedin.com/in/annxshan
 
 I'm still figuring out my own style as a developer, but I enjoy the process of taking an idea and slowly turning it into something real.
